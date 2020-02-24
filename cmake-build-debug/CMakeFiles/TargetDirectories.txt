@@ -1,0 +1,3 @@
+D:/PROject/MartixChainsMultiple/cmake-build-debug/CMakeFiles/MartixChainsMultiple.dir
+D:/PROject/MartixChainsMultiple/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PROject/MartixChainsMultiple/cmake-build-debug/CMakeFiles/rebuild_cache.dir
